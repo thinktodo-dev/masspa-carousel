@@ -57,5 +57,9 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "dependencies": {
+    "react-slick": "^0.25.2",
+    "slick-carousel": "^1.8.1"
+  }
 }
