@@ -78,12 +78,15 @@ class Example extends Component {
 
 ## Demo
 Default
+
 ![demo](https://raw.githubusercontent.com/thinktodo-dev/Carousel/master/example/default.gif)
 
 slideOne
+
 ![demo](https://raw.githubusercontent.com/thinktodo-dev/Carousel/master/example/slideOne.gif)
 
 slideThree
+
 ![demo](https://raw.githubusercontent.com/thinktodo-dev/Carousel/master/example/slideThree.gif)
 ## License
 
