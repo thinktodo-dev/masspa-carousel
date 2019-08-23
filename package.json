@@ -59,7 +59,7 @@
     "dist"
   ],
   "dependencies": {
-    "react-slick": "^0.25.2",
+    "react-slick": "^0.24.0",
     "slick-carousel": "^1.8.1"
   }
 }
