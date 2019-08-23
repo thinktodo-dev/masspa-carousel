@@ -96,7 +96,7 @@ export default class ExampleComponent extends Component {
           {listBranches.map((item, index) => {
             return(
               <div>
-                <div className="branch-img">
+                <div className="wrap-img-item">
                   <img alt={item.branchName} src={item.imageUrl}/>
                 </div>
               </div>

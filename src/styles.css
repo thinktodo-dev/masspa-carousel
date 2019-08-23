@@ -26,8 +26,8 @@ img{
   transition: opacity 500ms ease 0s;
   font-family: "object-fit: cover; object-position: 50% 50%";
 }
-.branch-img{
-  margin: 40px;
+.wrap-img-item{
+  margin: 40px ;
   position: relative;
 }
 
@@ -40,7 +40,7 @@ img{
     max-width: 960px !important;
     margin: 0px auto;
   }
-  .branch-img{
+  .wrap-img-item{
     margin: 0px;
   }
 }
@@ -51,7 +51,7 @@ img{
       max-width: 720px !important;
       margin: 0px auto;
   }
-  .branch-img{
+  .wrap-img-item{
       margin: 0px;
   }
 }
@@ -62,14 +62,14 @@ img{
     max-width: 540px !important;
     margin: 0px auto;
   }
-  .branch-img{
+  .wrap-img-item{
     margin: 0px;
   }
 }
 
 @media only screen and (max-width: 576px) {
   /*carousel*/
-  .branch-img{
+  .wrap-img-item{
       margin: 0px;
   }
   .slick-slider02{
