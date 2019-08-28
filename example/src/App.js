@@ -17,10 +17,10 @@ const listBranches = [
     branchName: 'Chi nhánh Gia Lai',
     imageUrl: branch3,
   },
-  // {
-  //   branchName: 'Chi nhánh Gia Lai',
-  //   imageUrl: branch4,
-  // },
+  {
+    branchName: 'Chi nhánh Gia Lai',
+    imageUrl: branch4,
+  },
 ]
 export default class App extends Component {
   render () {
