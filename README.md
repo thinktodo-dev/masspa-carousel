@@ -87,7 +87,7 @@ slideOne
 
 slideThree
 
-![demo](https://prnt.sc/sstebn)
+![demo](https://raw.githubusercontent.com/thinktodo-dev/Carousel/master/example/slideThree.gif)
 ## License
 
 MIT © [Masspa](https://github.com/thinktodo-dev)
